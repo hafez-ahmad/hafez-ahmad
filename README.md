@@ -10,14 +10,15 @@
 I am Hafez Ahmad and experienced in Project Management,Oceanography,Observational Oceanography,Marine Ecology, Geoinformatics and Remote Sensing, Strategic Planning, Data Analysis and Management, and skilled in Python, R, MATLAB, Julia,Google Earth Engine, ArcGIS, Adobe Illustrator, Microsoft Office. I am passionate about physical Oceanographic and Marine Ecology Research and coastal Development Research. I will be happy to be part of your Research Groups. I have a Bachelor’s Degree in Oceanography from the Faculty of marine science and fisheries, [University of Chittagong ,Bangladesh](https://cu.ac.bd/) and I am also an Exchange student at [Florida Gulf Coast University, Florida, USA](https://www.fgcu.edu/). More information about my Research and Activities can be found at my personal [Website](https://hafez-ahmad.github.io/HafezAhmadOceanographer.github.io/) where I like to write about Ocean, environment , Marine Ecology, climate and Numerical Ocean Data analysis. I love to study and write. 
 
 --
-### Open-source Projects
+###  Projects
 
 - **Oceanography:** [Computational Oceanography](https://github.com/hafez-ahmad/Oceanography)
 - **Python Works:** [python](https://github.com/hafez-ahmad/python-2.7-code-for-oceanography) 
 - **R Works:** [R](https://github.com/hafez-ahmad/R) 
 - **julia Works:** [julia](https://github.com/hafez-ahmad/Julia_for_Computational_Oceanography) 
+
 - **Detection and tracking of mesoscale eddies in the Bay of Bengal using Satellite altimetry data. ** 
-- **Applications of Machine learning in Computational Oceanographic Research. **
+- **pplications of Machine learning in Computational Oceanographic Research. **
 - **Marine Spatial Planning to support Integrated Coastal zone Management in Bangladesh. **
 - **Spatio –temporal variability of SST and Primary productivity in the Bay of Bengal.**
 - **Status and Future Trends of the Bangladesh Coastal Zone Management and coastal risks.**
