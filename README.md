@@ -12,13 +12,13 @@ I am Hafez Ahmad and experienced in Project Management,Oceanography,Observationa
 --
 ### Open-source Projects
 
-- **Oceanography:** [manjaro-linux](https://github.com/hafe-ahmad)
+- **Oceanography:** [Computational Oceanography](https://github.com/hafez-ahmad/Oceanography)
 - **Python Works:** [python](https://github.com/hafez-ahmad/python-2.7-code-for-oceanography) 
 - **R Works:** [R](https://github.com/hafez-ahmad/R) 
 - **julia Works:** [julia](https://github.com/hafez-ahmad/Julia_for_Computational_Oceanography) 
-- **Detection and tracking of mesoscale eddies in the Bay of Bengal using Satellite altimetry data ** *
-- **Applications of Machine learning in Computational Oceanographic Research **
-- **Marine Spatial Planning to support Integrated Coastal zone Management in Bangladesh **
+- **Detection and tracking of mesoscale eddies in the Bay of Bengal using Satellite altimetry data. ** 
+- **Applications of Machine learning in Computational Oceanographic Research. **
+- **Marine Spatial Planning to support Integrated Coastal zone Management in Bangladesh. **
 - **Spatio –temporal variability of SST and Primary productivity in the Bay of Bengal.**
 - **Status and Future Trends of the Bangladesh Coastal Zone Management and coastal risks.**
 - **Present status of impacts of climate change and adaptations in Bangladesh coastal areas.**
