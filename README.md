@@ -3,8 +3,8 @@
 [![Twitter Badge](https://img.shields.io/twitter/follow/hafezahmad100?style=social)](https://twitter.com/hafezahmad100)
 [![Facebook Badge](https://img.shields.io/badge/My-facebook-blue)](https://www.facebook.com/hafez.ahmad100)
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=ToH-NhkAAAAJ&hl=en)
-[![Researchgate Badge](http://www.researchgate.net/favicon.ico)](https://www.researchgate.net/profile/Hafez_Ahmad)
-[![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/channel/UCP6C786NzqGcLRVvUj7Rbpw?view_as=subscriber)
+[![Researchgate Badge](https://img.shields.io/badge/My-facebook-blue)](https://www.researchgate.net/profile/Hafez_Ahmad)
+[![YouTube Badge](https://img.shields.io/badge/My-Researchgate-darkblue)](https://www.youtube.com/channel/UCP6C786NzqGcLRVvUj7Rbpw?view_as=subscriber)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/hafez-ahmad-37a49b102/)
 
 
