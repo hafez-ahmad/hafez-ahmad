@@ -19,7 +19,7 @@ I am Hafez Ahmad and experienced in Project Management,Oceanography,Observationa
 - **julia Works:** [julia](https://github.com/hafez-ahmad/Julia_for_Computational_Oceanography) 
 
 - **Detection and tracking of mesoscale eddies in the Bay of Bengal using Satellite altimetry data. ** 
-- **pplications of Machine learning in Computational Oceanographic Research. **
+- **Applications of Machine learning in Computational Oceanographic Research. **
 - **Marine Spatial Planning to support Integrated Coastal zone Management in Bangladesh. **
 - **Spatio –temporal variability of SST and Primary productivity in the Bay of Bengal.**
 - **Status and Future Trends of the Bangladesh Coastal Zone Management and coastal risks.**
