@@ -21,6 +21,8 @@ I am Hafez Ahmad and experienced in Project Management, Observational Oceanograp
 - **Status and Future Trends of the Bangladesh Coastal Zone Management and coastal risks.**
 - **Present status of impacts of climate change and adaptations in Bangladesh coastal areas.**
 - **Integrated Management of Coastal Resources of Saint Martin’s Island in Bangladesh.**
+**Visitors Count**
+![VisitorCount](https://profile-counter.glitch.me/{hafez-ahmad}/count.svg)
 --
 ![github stats](https://github-readme-stats.vercel.app/api?username=hafez-ahmad&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hafez-ahmad&hide=javascript,go,html)
